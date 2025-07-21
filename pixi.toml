@@ -13,6 +13,7 @@ jupyterlab = "*"
 
 [feature.wasm.dependencies]
 jupyterlite-core-with-lab = "*"
+jupyterlite-pyodide-kernel = "*"
 
 [feature.lab.tasks]
 lab = "jupyter lab"
